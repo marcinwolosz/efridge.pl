@@ -1,0 +1,45 @@
+
+body{
+
+	padding: 0;
+	font-family: Arial;
+	font-size: 12px;
+}
+.body{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+	width: auto;
+	height: auto;
+	background-image: url(../img/1.jpg);
+	background-size: cover;
+	z-index: 0;
+	overflow: none;
+}
+
+.test{
+
+	background: grey;
+	color: #fff;
+	font-family: 'Exo', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 4px;
+	text-align: right;
+	margin-top: 0;
+	height:  20px;
+	position: fixed;
+	top: 0;
+	display:table-cell;
+    vertical-align:middle;
+	left: 0;
+	right: 0;
+	padding: 10px;
+	z-index: 1;
+}
+
+
+
+
